@@ -4,4 +4,4 @@
  
 Orange: (https://orange.biolab.si/)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DataSet](https://www.kaggle.com/pratik2901/multiclass-weather-dataset)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Weather-DataSet](https://www.kaggle.com/pratik2901/multiclass-weather-dataset)<br>
